@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Jonathan Vazquez Rivera
-
 int main()
 {
 	//Calcular el promedio de la suma de los numeros pares entre 500 y 1200
